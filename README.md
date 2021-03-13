@@ -33,7 +33,7 @@
    
    Here's a walkthrough of implemented user stories:
    
-   <img src='Twitter_demo.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+   <img src='Twitter_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
    
    ## Notes
    
